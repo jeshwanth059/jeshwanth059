@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner2.jpg" width="800" />
+  <img src="Banner3.jpg" width="800" />
 </p>
 # Hi there 👋, I'm Jeshwanth Sagi
 
