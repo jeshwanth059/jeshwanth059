@@ -57,23 +57,10 @@ public class Jeshwanth {
 
 ## 📂 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/jeshwanth059/Cafe-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeshwanth059&repo=Cafe-Management-System&theme=tokyonight&border_color=30363d" />
-</a>
-<a href="https://github.com/jeshwanth059/Food-Delivery-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeshwanth059&repo=Food-Delivery-Application&theme=tokyonight&border_color=30363d" />
-</a>
-
-</div>
-
-<br/>
-
 | Project | Description | Tech |
 |--------|-------------|------|
-| ☕ **Cafe Management System** | Backend system to manage cafe operations — orders, menus & more | `Java` `Spring Boot` `MySQL` |
-| 🍔 **Food Delivery Application** | Application to understand real-world project structure & flow | `Java` `REST APIs` |
+| ☕ **[Cafe Management System](https://github.com/jeshwanth059/Cafe-Management-System)** | Backend system to manage cafe operations — orders, menus & more | `Java` `Spring Boot` `MySQL` |
+| 🍔 **[Food Delivery Application](https://github.com/jeshwanth059/Food-Delivery-Application)** | Application to understand real-world project structure & flow | `Java` `REST APIs` |
 
 > 🚧 More projects coming soon...
 
@@ -83,14 +70,15 @@ public class Jeshwanth {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jeshwanth059&show_icons=true&theme=tokyonight&border_color=30363d&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshwanth059&layout=compact&theme=tokyonight&border_color=30363d&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jeshwanth059&show_icons=true&theme=tokyonight&border_color=30363d&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeshwanth059&layout=compact&theme=tokyonight&border_color=30363d" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeshwanth059&theme=tokyonight&border=30363d" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=jeshwanth059&theme=tokyonight&border=30363d" height="165"/>
 
 </div>
 
